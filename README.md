@@ -1,77 +1,43 @@
 # Hi, I'm Andrea Banducci 👋
 
-Frontend Developer based in Sweden 🇸🇪
+**Frontend Developer with a background in UX/UI, graphic design and visual communication.**
 
-I combine more than 10 years of experience in graphic design and visual communication with modern frontend development.
+Based in Skåne, Sweden 🇸🇪
 
-My focus is building accessible, user-friendly and visually polished digital experiences, combining frontend development, UX/UI and a strong design perspective.
+I combine more than 10 years of experience in graphic design and visual communication with modern frontend development. My focus is creating accessible, user-friendly and visually polished digital experiences.
 
 ## About me
 
 - Frontend Developer educated at EC Utbildning in Helsingborg
 - 10+ years of experience in graphic design and visual communication
 - Strong interest in UX/UI, accessibility and digital customer experience
-- Based in Skåne, Sweden
-- Open to frontend and hybrid frontend/design opportunities
+- Open to frontend and hybrid frontend/design opportunities in Sweden
 
 ## Tech stack
 
-### Frontend
+**Frontend:** React, TypeScript, JavaScript, Next.js, HTML, CSS, Tailwind CSS, Vue.js and Angular
 
-- React
-- TypeScript
-- JavaScript
-- Next.js
-- HTML
-- CSS
-- Tailwind CSS
-- Vue.js
-- Angular
+**Backend & tools:** Node.js, Express, SQLite, REST APIs, Git, GitHub and Vercel
 
-### Backend and tools
+**Design & UX:** Figma, Adobe Illustrator, Photoshop, InDesign, responsive design and accessibility
 
-- Node.js
-- Express
-- SQLite
-- Git
-- GitHub
-- Vercel
-- REST APIs
+## Featured projects
 
-### Design and UX
+### [Portfolio](https://github.com/Andreaband/portfolio)
 
-- Figma
-- Adobe Illustrator
-- Adobe Photoshop
-- Adobe InDesign
-- UX/UI Design
-- Responsive Design
-- Accessibility
+Personal portfolio presenting selected frontend, UX/UI and design work.
 
-## Featured work
-
-### Portfolio
-
-My personal portfolio presenting selected frontend, UX/UI and design work.
-
-### PromoKit
+### [PromoKit](https://github.com/Andreaband/Promokit)
 
 A landing-page builder developed with Next.js, React, TypeScript and Tailwind CSS.
 
-### SquareGrid
+### [SquareGrid](https://github.com/Andreaband/SquareGrid-App-React-DotNet-Fullstack-Test)
 
-A full-stack test project built with React and .NET.
+A full-stack project built with React and .NET.
 
-### Open-source contribution
+### [Open-source contribution](https://github.com/Andreaband/omni-tools)
 
-Contributor to Omni Tools, where I added a test covering whitespace handling in the string reverser utility.
-
-## Currently
-
-- Improving my frontend and TypeScript skills
-- Building user-centred digital interfaces
-- Exploring AI-assisted development workflows
-- Looking for frontend opportunities in Sweden
+Contributor to Omni Tools, with a test covering whitespace handling in the string reverser utility.
 
 ## Languages
 
@@ -81,5 +47,5 @@ Contributor to Omni Tools, where I added a test covering whitespace handling in 
 
 ## Contact
 
-- LinkedIn: www.linkedin.com/in/andreabanducci
-- Email: andreabanducci@gmail.com
+- [Portfolio](https://andreaband.github.io/)
+- [Email](mailto:andreabanducci@gmail.com)
